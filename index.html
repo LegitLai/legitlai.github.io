@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LegitLai</title>
+    <style>
+        /* General styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: url('https://legitlai.github.io/bg.png') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+        }
+
+        .container {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 40px; /* Increased padding */
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.7);
+            text-align: center;
+            width: 400px; /* Increased width */
+        }
+
+        .profile-pic {
+            width: 150px; /* Fixed size for profile picture */
+            height: 150px; /* Fixed size for profile picture */
+            border-radius: 50%;
+            margin-bottom: 20px; /* Space below profile picture */
+            border: 4px solid white;
+            object-fit: cover; /* Ensures the image fits nicely */
+        }
+
+        .name {
+            font-size: 2.2em; /* Increased font size */
+            font-weight: bold;
+            margin-top: 15px; /* Space above name */
+            color: #f0f0f0;
+        }
+
+        .buttons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; /* Center buttons */
+            margin-top: 60px; /* HUGE SPACE BETWEEN NAME AND LOGOS */
+            gap: 20px; /* Increased gap */
+        }
+
+        .button {
+            text-decoration: none;
+            color: white;
+            background-color: transparent;
+            padding: 0; /* No padding */
+            border-radius: 0; /* No rounded corners */
+            font-size: 0;
+            transition: transform 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: auto; /* Auto width */
+            height: auto; /* Auto height */
+            border: none; /* No border */
+        }
+
+        .button:hover {
+            transform: scale(1.1); /* Hover effect */
+        }
+
+        .button img {
+            width: 60px; /* Larger icons */
+            height: 60px; /* Larger icons */
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img class="profile-pic" src="https://legitlai.github.io/profile.png" alt="Profile Picture">
+        <div class="name">LegitLai</div>
+        <!-- NO ADDITIONAL TEXT HERE -->
+        <div class="buttons">
+            <a class="button" href="https://www.youtube.com/LegitLai" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube">
+            </a>
+            <a class="button" href="https://akatsuki.gg/u/130297" target="_blank">
+                <img src="osu-logo.png" alt="Osu"> <!-- Use your local Osu logo -->
+            </a>
+            <a class="button" href="https://steamcommunity.com/id/legitlai" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam">
+            </a>
+            <a class="button" href="https://www.tiktok.com/@yourusername" target="_blank">
+                <img src="tiktok-logo.png" alt="TikTok"> <!-- Use your local TikTok logo -->
+            </a>
+            <a class="button" href="https://www.instagram.com/legitlai/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
