@@ -1,15 +1,14 @@
 # LegitLai Website
 
-Welcome to **LegitLai's Official Website**! This is a simple yet stylish personal site featuring links to social media profiles, gaming content, and more.
+Welcome to **LegitLai's Official Website**! This is a simple yet stylish personal site featuring links to social media profiles.
 
+
+## 📌 Why This Website?
+My friend OhWalP created this site for me to make sure that when people search for LegitLai, they find my real profile instead of unrelated content. I've been using the name LegitLai (short for Legit Laith) for a long time, and it’s been my identity across different platforms. This website brings everything together in one place—my gaming, social media, and more. Big thanks to him for making this happen! 🙌
 
 ## 🌟 Features
 - Clean and modern design with a **dark-themed UI**
 - Easy access to **social media** and gaming profiles
-
-
-## 📌 Why This Website?
-This website was created by my friend OhWalP to make sure that when people search for **LegitLai**, they find my real profile instead of unrelated content. It also serves as a central hub for my gaming and social media presence. Huge thanks to him for making this happen! 🙌
 
 ---
 ### 💡 Future Plans
