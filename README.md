@@ -6,7 +6,6 @@ Welcome to **LegitLai's Official Website**! This is a simple yet stylish persona
 ## 🌟 Features
 - Clean and modern design with a **dark-themed UI**
 - Easy access to **social media** and gaming profiles
-- Uses **GitHub Pages** for hosting
 
 
 ## 📌 Why This Website?
