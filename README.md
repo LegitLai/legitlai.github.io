@@ -9,7 +9,7 @@ Welcome to **LegitLai's Official Website**! This is a simple yet stylish persona
 
 
 ## 📌 Why This Website?
-My friend created this site for me to ensure that when people search for **LegitLai**, they find the real profile instead of unrelated content. It also serves as a hub for LegitLai’s gaming and social media presence.
+This website was created by my friend OhWalP to make sure that when people search for **LegitLai**, they find my real profile instead of unrelated content. It also serves as a central hub for my gaming and social media presence. Huge thanks to him for making this happen! 🙌
 
 ---
 ### 💡 Future Plans
